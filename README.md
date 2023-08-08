@@ -39,7 +39,7 @@ npm run start
 
 ## Walkthrough Video
 
-[Link to walkthrough video](https://drive.google.com/file/d/14TZ2O6zuT_TNPk1gxBK_W0TsqBy9UClm/view)
+[Link to walkthrough video](https://drive.google.com/file/d/1Cfg0iQSOdpEwDChZLHFezyfsQwaTqpUw/view)
 
 ## API Routes
 
